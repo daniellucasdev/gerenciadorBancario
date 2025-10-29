@@ -1,1 +1,6 @@
-/* * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license */ package com.mycompany.gerenciabanco; /** * * @author braip */ public class GerenciaBanco { public static void main(String[] args) { System.out.println("Hello World!"); } }
+package com.mycompany.gerenciabanco;
+
+
+public class GerenciaBanco {
+
+}
